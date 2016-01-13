@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-reverse-engineering PUBLIC "-//Hibernate/Hibernate Reverse Engineering DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-reverse-engineering-3.0.dtd" >
+
+<hibernate-reverse-engineering>
+	<table name="t_address" catalog="kafe"
+		class="com.foodshop.pojo.Address">
+	</table>
+	<table name="t_area" catalog="kafe"
+		class="com.foodshop.pojo.Area">
+	</table>
+	<table name="t_category" catalog="kafe"
+		class="com.foodshop.pojo.Category">
+	</table>
+	<table name="t_foods" catalog="kafe"
+		class="com.foodshop.pojo.Foods">
+	</table>
+	<table name="t_shop" catalog="kafe" class="com.foodshop.pojo.Shop"></table>
+</hibernate-reverse-engineering>
